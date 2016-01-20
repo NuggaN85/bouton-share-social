@@ -19,7 +19,7 @@ button{
 }
 .share_gplus{
 	padding: 1% 2%;
-	background-color: #0e76a8;
+	background-color: #EA4335;
 	color: #ffffff;
 	font-weight: bold;
 	border: none;
@@ -27,7 +27,39 @@ button{
 }
 .share_linkedin{
 	padding: 1% 2%;
+	background-color: #0e76a8;
+	color: #ffffff;
+	font-weight: bold;
+	border: none;
+	margin: 1%;
+  }
+.share_trumblr{
+	padding: 1% 2%;
 	background-color: #333333;
+	color: #ffffff;
+	font-weight: bold;
+	border: none;
+	margin: 1%;
+}
+.share_livejournal{
+	padding: 1% 2%;
+	background-color: #0e76a8;
+	color: #ffffff;
+	font-weight: bold;
+	border: none;
+	margin: 1%;
+}
+.share_reddit{
+	padding: 1% 2%;
+	background-color: #28A9E0;
+	color: #ffffff;
+	font-weight: bold;
+	border: none;
+	margin: 1%;
+}
+.share_stumbleupon{
+	padding: 1% 2%;
+	background-color: #EA4335;
 	color: #ffffff;
 	font-weight: bold;
 	border: none;
