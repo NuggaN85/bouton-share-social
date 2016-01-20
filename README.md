@@ -5,3 +5,5 @@
  * Copyright © 2015 All rights reserved.
  * Licensed under CC BY 3.0
 ```
+
+<img src="http://image.noelshack.com/minis/2016/03/1453325095-screenshot-1.png"/></a>
