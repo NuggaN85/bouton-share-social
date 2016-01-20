@@ -40,8 +40,36 @@
     document.querySelector('.share_linkedin').addEventListener('click', function(e){
         e.preventDefault();
         var url = this.getAttribute('data-url');
-        var shareUrl = "https://www.linkedin.com/shareArticle?url=" + encodeURIComponent(url);
+        var shareUrl = "//www.linkedin.com/shareArticle?url=" + encodeURIComponent(url);
         popupCenter(shareUrl, "Partager sur Linkedin");
     });
-
+    
+        document.querySelector('.share_trumblr').addEventListener('click', function(e){
+        e.preventDefault();
+        var url = this.getAttribute('data-url');
+        var shareUrl = "//www.tumblr.com/widgets/share/tool?shareSource=legacy&canonicalUrl=&url="                     +encodeURIComponent(url);
+        popupCenter(shareUrl, "Partager sur Trumblr");
+    });    
+    
+        document.querySelector('.share_livejournal').addEventListener('click', function(e){
+        e.preventDefault();
+        var url = this.getAttribute('data-url');
+        var shareUrl = "//www.livejournal.com/update.bml?url=" +encodeURIComponent(url);
+        popupCenter(shareUrl, "Partager sur livejournal");
+    }); 
+    
+        document.querySelector('.share_reddit').addEventListener('click', function(e){
+        e.preventDefault();
+        var url = this.getAttribute('data-url');
+        var shareUrl = "//www.reddit.com/submit?url=" +encodeURIComponent(url);
+        popupCenter(shareUrl, "Partager sur reddit");
+    }); 
+    
+        document.querySelector('.share_stumbleupon').addEventListener('click', function(e){
+        e.preventDefault();
+        var url = this.getAttribute('data-url');
+        var shareUrl = "//www.stumbleupon.com/submit?url=" +encodeURIComponent(url);
+        popupCenter(shareUrl, "Partager sur stumbleupon");
+    }); 
+     
 })();
