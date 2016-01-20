@@ -1,7 +1,7 @@
 button{
 	cursor: pointer;
-}
-button:button share_twitter{
+  }
+.share_facebook{
 	padding: 1% 2%;
 	background-color: #3b5998;
 	color: #ffffff;
@@ -9,7 +9,7 @@ button:button share_twitter{
 	border: none;
 	margin: 1%;
 }
-button:button share_facebook{
+.share_twitter{
 	padding: 1% 2%;
 	background-color: #28A9E0;
 	color: #ffffff;
@@ -17,7 +17,7 @@ button:button share_facebook{
 	border: none;
 	margin: 1%;
 }
-button:button share_gplus{
+.share_gplus{
 	padding: 1% 2%;
 	background-color: #EA4335;
 	color: #ffffff;
@@ -25,7 +25,7 @@ button:button share_gplus{
 	border: none;
 	margin: 1%;
 }
-button:button share_linkedin{
+.share_linkedin{
 	padding: 1% 2%;
 	background-color: #333333;
 	color: #ffffff;
