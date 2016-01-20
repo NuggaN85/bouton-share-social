@@ -47,7 +47,7 @@
         document.querySelector('.share_trumblr').addEventListener('click', function(e){
         e.preventDefault();
         var url = this.getAttribute('data-url');
-        var shareUrl = "//www.tumblr.com/widgets/share/tool?shareSource=legacy&canonicalUrl=&url="                     +encodeURIComponent(url);
+        var shareUrl = "//www.tumblr.com/widgets/share/tool?shareSource=legacy&canonicalUrl=&url=" +encodeURIComponent(url);
         popupCenter(shareUrl, "Partager sur Trumblr");
     });    
     
