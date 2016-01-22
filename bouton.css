@@ -12,8 +12,8 @@ button{
 	border: none;
 	margin: 1%;
 	-webkit-box-shadow: inset 20px 150px 300px #777777;
--moz-box-shadow: inset 20px 150px 300px #777777;
-box-shadow: inset 20px 150px 300px #777777;
+        -moz-box-shadow: inset 20px 150px 300px #777777;
+        box-shadow: inset 20px 150px 300px #777777;
 }
 .share_twitter{
 	padding: 1% 2%;
@@ -25,6 +25,9 @@ box-shadow: inset 20px 150px 300px #777777;
 	font-weight: bold;
 	border: none;
 	margin: 1%;
+	-webkit-box-shadow: inset 20px 150px 300px #777777;
+        -moz-box-shadow: inset 20px 150px 300px #777777;
+        box-shadow: inset 20px 150px 300px #777777;
 }
 .share_gplus{
 	padding: 1% 2%;
