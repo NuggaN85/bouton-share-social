@@ -1,10 +1,10 @@
 button{
-        box-shadow: 5px 5px 5px #444444;
 	cursor: pointer;
   }
 .share_facebook{
 	padding: 1% 2%;
 	background-color: #3b5998;
+	box-shadow: 5px 5px 5px #444444;
 	color: #ffffff;
 	font-weight: bold;
 	border: none;
