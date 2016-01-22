@@ -1,4 +1,7 @@
 button{
+	-webkit-box-shadow: 5px 5px 5px #444444;
+        -moz-box-shadow: 5px 5px 5px #444444;
+        box-shadow: 5px 5px 5px #444444;
 	cursor: pointer;
   }
 .share_facebook{
