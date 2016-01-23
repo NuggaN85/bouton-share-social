@@ -51,7 +51,7 @@
         popupCenter(shareUrl, "Partager sur Trumblr");
     });    
     
-        document.querySelector('.share_livejournal').addEventListener('click', function(e){
+        document.querySelector('.share_pinterest').addEventListener('click', function(e){
         e.preventDefault();
         var url = this.getAttribute('data-url');
         var shareUrl = "//www.pinterest.com/pin/create/button/?url=" +encodeURIComponent(url);
