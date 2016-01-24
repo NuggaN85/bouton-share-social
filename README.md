@@ -7,7 +7,7 @@
 ```
 
 Ajout des boutons social.
-```
+```PHP
 <button class="button share_facebook" data-url="https://github.com/NuggaN85/bouton-share-social"><i class="fa fa-facebook"></i> Partager sur facebook</button>
 <button class="button share_twitter" data-url="https://github.com/NuggaN85/bouton-share-social"><i class="fa fa-twitter"></i> Partager sur twitter</button>
 <button class="button share_gplus" data-url="https://github.com/NuggaN85/bouton-share-social"><i class="fa fa-google-plus"></i> Partager sur google+</button>
