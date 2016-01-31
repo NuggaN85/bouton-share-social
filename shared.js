@@ -71,5 +71,12 @@
         var shareUrl = "//www.stumbleupon.com/submit?url=" +encodeURIComponent(url);
         popupCenter(shareUrl, "Partager sur stumbleupon");
     }); 
+    
+    document.querySelector('.share_vk').addEventListener('click', function(e){
+    e.preventDefault();
+    var url = this.getAttribute('data-url');
+    var shareUrl = "//vk.com/share.php?url=" +encodeURIComponent(url);
+    popupCenter(shareUrl, "Partager sur vk");
+    }); 
      
 })();
