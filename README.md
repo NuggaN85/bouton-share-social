@@ -17,6 +17,7 @@ Ajout des boutons social.
 <button class="button share_reddit" data-url="https://github.com/NuggaN85/bouton-share-social"><i class="fa fa-reddit-alien"></i> Partager sur reddit</button>
 <button class="button share_stumbleupon" data-url="https://github.com/NuggaN85/bouton-share-social"><i class="fa fa-stumbleupon"></i> Partager sur stumbleupon</button>
 <button class="button share_vk" data-url="https://github.com/NuggaN85/bouton-share-social"><i class="fa fa-vk"></i> Partager sur vk</button>
+<button class="button share_xing" data-url="https://github.com/NuggaN85/bouton-share-social"><i class="fa fa-xing"></i> Partager sur xing</button>
 ```
 
 ## Browsers support
