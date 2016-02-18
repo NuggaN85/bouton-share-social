@@ -78,5 +78,12 @@
     var shareUrl = "//vk.com/share.php?url=" +encodeURIComponent(url);
     popupCenter(shareUrl, "Partager sur vk");
     }); 
+    
+    document.querySelector('.share_xing').addEventListener('click', function(e){
+    e.preventDefault();
+    var url = this.getAttribute('data-url');
+    var shareUrl = "//www.xing.com/spi/shares/new?sc_p=b7910_cb&url=" +encodeURIComponent(url);
+    popupCenter(shareUrl, "Partager sur xing");
+    }); 
      
 })();
