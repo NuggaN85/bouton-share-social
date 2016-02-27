@@ -26,4 +26,4 @@ Ajout des boutons social.
 | --------- | --------- | --------- | --------- | --------- | --------- | --------- | --------- |
 
 - Testing share bouton: https://htmlpreview.github.io/?https://github.com/NuggaN85/bouton-share-social/blob/master/bouton.html
-- Testing share bouton via jsfiddle.net: https://jsfiddle.net/o57ncL0e/
+- Testing share bouton via jsfiddle.net: https://jsfiddle.net/0h2ywgcr/
