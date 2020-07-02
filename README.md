@@ -22,6 +22,8 @@ Ajout des boutons social.
 
 - Testing share bouton: https://htmlpreview.github.io/?https://github.com/NuggaN85/bouton-share-social/blob/master/bouton.html
 
+[![Donate](https://img.shields.io/badge/paypal-donate-yellow.svg?style=flat)](https://www.paypal.me/nuggan85)
+
 #### Cross-browser
 
 Browser support is tested in Saucelabs:
