@@ -6,7 +6,8 @@
  * Licensed under CC BY 3.0
 ```
 
-Ajout des boutons social.
+Ajout des boutons de partage social.
+
 ```PHP
 <button class="button share_facebook" data-url="https://github.com/NuggaN85/bouton-share-social" rel="nofollow"><i class="fa fa-facebook"></i> Partager sur facebook</button>
 <button class="button share_twitter" data-url="https://github.com/NuggaN85/bouton-share-social" rel="nofollow"><i class="fa fa-twitter"></i> Partager sur twitter</button>
